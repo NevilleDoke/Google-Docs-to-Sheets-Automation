@@ -18,7 +18,10 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets',
 #SERVICE_ACCOUNT_FILE = 'F:\Self study\git-projects\Google-Docs-to-Sheets-Automation\account_key\google_account_key.json'
 
 # ID of the Google Document you want to read
-# DOCUMENT_IDS = ['']
+# DOCUMENT_IDS = ['1B00kLhXgyyWhXKYaP2aOOX0kd2zzpJZkSZok-JaYdag',
+#                 '1b0zRLUAvBSbpWm42vet5F_PvPiUcDpx2N4OfR8f23QM',
+#                '1B00kLhXgyyWhXKYaP2aOOX0kd2zzpJZkSZok-JaYdag',
+#                '1b0zRLUAvBSbpWm42vet5F_PvPiUcDpx2N4OfR8f23QM']
 # Get the base directory dynamically
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
